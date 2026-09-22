@@ -1,0 +1,3 @@
+# Cloudflare Pages resolves clean/extensionless URLs and directory index
+# routing natively. No redirect rules needed at this stage of the build.
+# Add entries here only for a genuine cross-domain or legacy-path need.
