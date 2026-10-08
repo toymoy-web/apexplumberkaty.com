@@ -252,3 +252,19 @@ footer .social a{display:inline-flex;width:34px;height:34px;border-radius:50%;ba
 footer .social-links a{display:inline-block;margin:0;padding:7px 14px;border-radius:100px;background:var(--soft);border:1px solid var(--line);color:var(--pine);font-weight:700;font-size:13px;line-height:1.3}
 footer .social-links a:hover{background:var(--pine);border-color:var(--pine);color:#fff}
 footer .legal a{display:inline;margin:0}
+
+/* service hero photos (batch 2) */
+.bg-water-damage-restoration{--hero-img:url(/images/water-damage-restoration-drying-equipment.jpg)}
+.bg-water-mitigation{--hero-img:url(/images/water-mitigation-extraction-moisture-check.jpg)}
+.bg-sewer-line-repair{--hero-img:url(/images/sewer-line-repair-excavation.jpg)}
+.bg-slab-leak-detection-repair{--hero-img:url(/images/slab-leak-detection-electronic-listening.jpg)}
+.bg-tankless-water-heater-service{--hero-img:url(/images/tankless-water-heater-wall-mounted.jpg)}
+.bg-hydro-jetting{--hero-img:url(/images/hydro-jetting-nozzle-sewer-cleanout.jpg)}
+.bg-sewer-camera-inspection{--hero-img:url(/images/sewer-camera-inspection-monitor.jpg)}
+.bg-repiping-whole-home-pipe-replacement{--hero-img:url(/images/repiping-pex-copper-manifold.jpg)}
+.bg-toilet-repair-installation{--hero-img:url(/images/toilet-installation-wax-ring-flange.jpg)}
+.bg-faucet-sink-repair{--hero-img:url(/images/faucet-sink-repair-under-sink.jpg)}
+.bg-garbage-disposal-repair-installation{--hero-img:url(/images/garbage-disposal-installation-under-sink.jpg)}
+.bg-water-filtration-installation{--hero-img:url(/images/water-filtration-whole-house-system.jpg)}
+.bg-water-softener-installation-repair{--hero-img:url(/images/water-softener-brine-tank-install.jpg)}
+.bg-commercial-plumbing{--hero-img:url(/images/commercial-plumbing-restroom-mechanical-room.jpg)}
